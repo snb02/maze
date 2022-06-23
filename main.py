@@ -1,6 +1,10 @@
-from numpy import *
+#from numpy import *
 from matplotlib import pyplot as plt
-import matplotlib.animation as an
+#import matplotlib.animation as an
+import matplotlib; matplotlib.use("TkAgg")
+from numpy import *
+
+import mpl_animation as an
 
 fig = plt.figure()
 board = plt.axes(xlim=(0, 130), ylim=(0, 100))
