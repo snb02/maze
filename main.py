@@ -1,6 +1,6 @@
 from numpy import *
 from matplotlib import pyplot as plt
-from matplotlib import animation as an
+import matplotlib.animation as an
 
 fig = plt.figure()
 board = plt.axes(xlim=(0, 130), ylim=(0, 100))
