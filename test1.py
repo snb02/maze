@@ -1,6 +1,6 @@
-"""#!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
+
 ##########################################################
 # maze solving program using the Left Hand Rule algorithm
 # DavisMT 07.01.2018
